@@ -5,12 +5,12 @@
 🔭 I’m currently working on server side development with Java and Laravel/PHP...<br />
 👯 I had experience with MYSQL, Mongodb, Couchbase, Docker, Git, CI/CD, Realtime programing...<br />
 ⚡ Hobbies:<br />
-- 🛵 Motorbike
-- 📷 Photography 
-- 🥾 Travel 
-- 🥃 Whiskey and cocktail
-- 📺 History, Romantic, Society movies like Before Sunrise...
-- 📻 Podcasts: personal finance, history, society topics
+- 🛵 Motorbike<br />
+- 📷 Photography <br />
+- 🥾 Travel <br />
+- 🥃 Whiskey and cocktail<br />
+- 📺 History, Romantic, Society movies like Before Sunrise...<br />
+- 📻 Podcasts: personal finance, history, society topics<br />
 
 <p align="center">
   <a href="https://t.me/conght" target="_blank">
