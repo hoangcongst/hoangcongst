@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hoangcongst&show_icons=true&theme=nord" />
-</p>\
+</p>
 🔭 I’m currently working on server side development with Java and Laravel/PHP...<br />
 👯 I had experience with MYSQL, Mongodb, Couchbase, Docker, Git, CI/CD, Realtime programing...<br />
 ⚡ Hobbies:<br />
