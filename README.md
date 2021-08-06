@@ -11,6 +11,7 @@
 - 🥃 Whiskey and cocktail<br />
 - 📺 History, Romantic, Society movies like Before Sunrise...<br />
 - 📻 Podcasts: personal finance, history, society topics<br />
+Personal Blog: https://liftu.top/
 
 <p align="center">
   <a href="https://t.me/conght" target="_blank">
