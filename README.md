@@ -9,7 +9,7 @@
 - 📷 Photography <br />
 - 🥾 Travel <br />
 - 🥃 Whiskey and cocktail<br />
-- 📺 History, Romantic, Society movies like Before Sunrise...<br />
+- 📺 History, Romantic, Society movies like Before Sunrise, Parasite, God father, Taxi driver, ...<br />
 - 📻 Podcasts: personal finance, history, society topics<br />
 Personal Blog: https://liftu.top/<br />
 Leetcode Profile: https://leetcode.com/hoangcongst/
